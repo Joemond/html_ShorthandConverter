@@ -72,6 +72,15 @@ body{
   border-color: #B2CBB9;
 }
 
+#blacklist{ /*blacklist*/
+  grid-column: 2/ span 1; /*change grid column to fit page*/
+  border-color: #1d14a3; /*change border color*/
+}
+
+h4{ 
+  color: green; /*Change "Black List" (h4) to green*/
+}
+
 .taskTitle{
   font-family: 'Raleway', sans-serif;
 }
